@@ -1,0 +1,1 @@
+python -m scripts.label_image \    --graph=tf_files/retrained_graph.pb \ --image=/Users/akshay/Desktop/tenso/test_images/black1.jpg
